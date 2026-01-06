@@ -1,0 +1,9 @@
+{
+"name":"النجاح أكاديمي",
+"short_name":"النجاح",
+"start_url":"index.html",
+"display":"standalone",
+"background_color":"#ffffff",
+"theme_color":"#1a428a",
+"orientation":"portrait"
+}

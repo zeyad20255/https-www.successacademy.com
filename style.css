@@ -1,0 +1,6 @@
+body{margin:0;font-family:sans-serif;background:#f4f6fb}
+.header{background:#1a428a;color:#fff;padding:1rem;text-align:center;font-size:22px}
+.center{text-align:center;margin-top:15vh}
+.btn{display:inline-block;margin:10px;background:#1a428a;color:#fff;padding:12px 24px;border-radius:8px;text-decoration:none}
+.btn.alt{background:#444}
+input{padding:10px;border-radius:6px;border:1px solid #ccc;width:220px}
